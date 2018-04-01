@@ -17,6 +17,6 @@
   </dependencies>
   <build>
     <finalName>second-maven-project</finalName>
-    <defaultGoal>compile</defaultGoal>
+    <defaultGoal>install</defaultGoal>
   </build>
 </project>
