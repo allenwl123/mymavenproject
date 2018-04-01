@@ -9,3 +9,4 @@ wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 在130机器上安装了git，终于成功了
 1906 成功了
 1909 gloria-2
+---------------------------------------1911 gloria-1
