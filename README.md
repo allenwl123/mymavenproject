@@ -8,3 +8,4 @@ wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 重新启动centos，修改文件
 在130机器上安装了git，终于成功了
 1906 成功了
+1909 gloria-2
